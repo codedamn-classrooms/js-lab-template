@@ -1,0 +1,3 @@
+tabs: ["index.js"]
+run-button: "node $$file"
+terminals: ["echo 'Use the run button to execute your code'"]
